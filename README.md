@@ -2,7 +2,7 @@
 
 - Simple Angular Project to do a task for Gemography Company.
 
-in this task I am  listing the most starred Github repos that were created in the last 30 days.
+- in this task I am  listing the most starred Github repos that were created in the last 30 days.
 
 ###### Modules and Libraries I used in my Project:
 - httpClient Module to fetch data from Api.
