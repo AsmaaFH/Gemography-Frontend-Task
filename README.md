@@ -1,5 +1,9 @@
 # GemographyFrontendTask
 
+## Simple Angular Project to do a task for Gemography Company.
+
+in this task I am  listing the most starred Github repos that were created in the last 30 days.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
 ## Development server
