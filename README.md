@@ -4,9 +4,9 @@
 
 in this task I am  listing the most starred Github repos that were created in the last 30 days.
 
-####Modules and Libraries I used in my Project:
-1.httpClient Module to fetch data from Api.
-2.bootstrap5 to use bootstrap table style.
+######Modules and Libraries I used in my Project:
+-httpClient Module to fetch data from Api.
+-bootstrap5 to use bootstrap table style.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
